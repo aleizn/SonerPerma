@@ -22,11 +22,11 @@ pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn
 ```
 
 ```bash
-git clone https://github.com/aleizn/Propio
+git clone https://github.com/aleizn/SonerPerma
 ```
 
 ```bash
-cd Propio
+cd SonerPerma
 ```
 
 ```bash
